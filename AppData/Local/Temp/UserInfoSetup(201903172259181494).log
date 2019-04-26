@@ -1,0 +1,68 @@
+Catalyst execution began: 03/17/2019 22:59:17.
+Loaded Dll : C:\Users\Anup kumar\AppData\Local\Temp\Setup00001494\OSETUP.DLL.
+Catalyst version is : 12.0.4518.1014
+JobExecutionMode is CollectUserInfoExecutionMode.
+The UI level has been set to: Full
+Configuring Product: {91120000-0014-0000-0000-0000000FF1CE}
+Loading ARP entry.
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-002C-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0019-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0117-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0115-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0018-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{91120000-0014-0000-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0016-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-001A-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-001B-0409-0000-0000000FF1CE}"
+Product: PROR
+  AddOnGroup Culture: en-us
+    AddOnId: WORD.EN-US
+    AddOnId: PUBLISHER.EN-US
+    AddOnId: PROOFING.EN-US
+    AddOnId: POWERPOINT.EN-US
+    AddOnId: OUTLOOK.EN-US
+    AddOnId: OFFICE.EN-US
+    AddOnId: EXCEL.EN-US
+    AddOnId: ACCESS.EN-US
+Opening log file C:\Users\Anup kumar\AppData\Local\Temp\UserInfoSetup(201903172259181494).log.
+Product Deployment Mode: PerMachineManaged
+Target Deployment Account Security Identifier: 
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Office.en-us\OfficeMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Office.en-us\OfficeMUISet.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Access.en-us\..\Access.en-us\AccessMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Access.en-us\AccessMUISet.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Excel.en-us\ExcelMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Outlook.en-us\OutlookMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\PowerPoint.en-us\PowerPointMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Proofing.en-us\..\Proof.es\Proof.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Proofing.en-us\..\Proof.fr\Proof.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Proofing.en-us\..\Proof.en\Proof.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Proofing.en-us\Proofing.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Publisher.en-us\PublisherMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Word.en-us\WordMUI.xml
+Loading package metadata: C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\PROR\ProrWW.xml
+Loading ARP entry.
+Showing message Title: 'Setup', Message: 'You may run your Microsoft Office Professional 2007 programs 24 times before you are required to enter a Product Key. We strongly recommend that you enter a Product Key now for ease of validating your Microsoft Office License.
+Do you want to enter a Product Key now?'
+Message returned: 6
+Showing message Title: 'Setup', Message: 'You may run your Microsoft Office Professional 2007 programs 24 times before you are required to enter a Product Key. We strongly recommend that you enter a Product Key now for ease of validating your Microsoft Office License.
+Do you want to enter a Product Key now?'
+Message returned: 7
+BRANDING: Parsing SkuredData...
+BRANDING: Parsing Branding Data...
+Not showing completion dialog because it was not requested.
+Reboot requested if needed.
+No reboot is needed.
+Catalyst execution finished: 03/17/2019 22:59:41.
+Error stopping OSE, error 0x81000001
+Catalyst execution finished: 03/17/2019 22:59:42.  Return code: 0.
+PERF: TickCount=6723284 Name=RunSetup Description=End function

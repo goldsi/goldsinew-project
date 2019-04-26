@@ -1,0 +1,88 @@
+PERF: TickCount=2709004 Name=OBootStrapper::Run Description=Begin function
+Operating System version: 6.1.7601 Service Pack 1. Platform ID: 2
+Running on a 32-bit operating system.
+Command line: .\setup.exe
+No command line arguments given
+Verify file signature in "C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\setup.exe"
+Verify file signature in "C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Pror.WW\OSETUP.DLL"
+Using setup controller dll at [C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Pror.WW\OSETUP.DLL].
+PERF: TickCount=2710735 Name=OBootStrapper::Run Description=Calling RunSetup
+Opening log file C:\Users\Anup kumar\AppData\Local\Temp\SetupExe(201903242016381B60).log.
+=========================================================================
+PERF: TickCount=2710735 Name=RunSetup Description=Begin function
+Catalyst execution began: 03/24/2019 20:16:38.
+Setupexe Resiliency Mode is set to [PerformIfApplicable]; thus Resiliency is [disabled] for the [InstallExecutionMode]
+Searching for updated versions of resource files under the 'updates' folder [C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\updates].
+Found [0] resource files under the update folder.
+Searching for default versions of resource files under the folder [C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp].
+Resource File Manager : Found (CultureTag=en-US) resource file at [C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Office.en-us\OSETUPUI.DLL].
+Found [1] resource files under the default folder.
+Resource File Manager : Current user's LCID is [16393].
+Resource File Manager : Falling back from [en-IN] to [en-US].
+Resource File Manager : Selecting resource file (File=C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Office.en-us\OSETUPUI.DLL) for CultureTag [en-IN].
+Running in [InstallExecutionMode]. Run from TEMP folder at [C:\Users\Anup kumar\AppData\Local\Temp\Setup00001b60].
+Loaded resource file [C:\Users\Anup kumar\AppData\Local\Temp\Setup00001b60\OSETUPUI.DLL] (CultureTag=en-US).
+Loaded Dll : C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Pror.WW\OSETUP.DLL.
+Catalyst version is : 12.0.4518.1014
+JobExecutionMode is InstallExecutionMode.
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0117-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0016-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0115-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0116-0409-1000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-001A-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0018-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-002C-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{91120000-0014-0000-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0019-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-0010-0409-0000-0000000FF1CE}"
+LIS: start parsing setup xml
+LIS: finished parsing LIS package "{90120000-001B-0409-0000-0000000FF1CE}"
+Product: PROR
+  AddOnGroup Culture: en-us
+    AddOnId: WORD.EN-US
+    AddOnId: PUBLISHER.EN-US
+    AddOnId: PROOFING.EN-US
+    AddOnId: POWERPOINT.EN-US
+    AddOnId: OUTLOOK.EN-US
+    AddOnId: OFFICE.EN-US
+    AddOnId: EXCEL.EN-US
+    AddOnId: ACCESS.EN-US
+No upgradable applications found
+Parsing config.xml at: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Pror.WW\config.xml
+Preferred product specified in config.xml to be: PROR
+Product Deployment Mode: PerMachineManaged
+Target Deployment Account Security Identifier: S-1-5-0
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Office.en-us\OfficeMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Office.en-us\OfficeMUISet.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Access.en-us\Access.en-us\AccessMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Access.en-us\AccessMUISet.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Excel.en-us\ExcelMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Outlook.en-us\OutlookMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\PowerPoint.en-us\PowerPointMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Proofing.en-us\Proof.es\Proof.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Proofing.en-us\Proof.fr\Proof.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Proofing.en-us\Proof.en\Proof.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Proofing.en-us\Proofing.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Publisher.en-us\PublisherMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Word.en-us\WordMUI.xml
+Loading package metadata: C:\Users\Anup kumar\AppData\Local\Temp\OWPA7A4.tmp\Pror.WW\ProrWW.xml
+User attempting to cancel setup.  Confirming...
+Showing message Title: 'Setup', Message: 'Are you sure you want to cancel setup?'
+Message returned: 6
+User canceled setup.
+Showing completion dialog.
+Reboot requested if needed.
+No reboot is needed.
+Catalyst execution finished: 03/24/2019 20:22:37.  Return code: 1602.
+PERF: TickCount=3069304 Name=RunSetup Description=End function
+=========================================================================

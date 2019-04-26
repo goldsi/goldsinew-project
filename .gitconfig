@@ -1,0 +1,7 @@
+[user]
+	name = Ashwini
+	email = ashwinimurty2092@gmail.com
+[core]
+	editor = notepad++.exe multiInst -nosession
+[alias]
+	hist = log --all --graph --decorate --oneline

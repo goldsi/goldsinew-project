@@ -1,0 +1,3 @@
+[0317/230932.882:INFO:assistant_installer_main.cc(150)] Running assistant installer with command line "C:\Program Files\Opera\assistant\assistant_installer.exe" --installfolder="C:\Program Files\Opera\assistant" --run-assistant --allusers=1
+[0317/230932.883:INFO:assistant_installer.cc(144)] Performing PostElevation Install Tasks
+[0317/230932.883:INFO:assistant_installer.cc(192)] Running Assistant

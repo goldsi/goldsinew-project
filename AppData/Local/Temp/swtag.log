@@ -1,0 +1,321 @@
+2009-01-01 00:21:48 [5244] SWTAG: _info_: __SWTAG_LOG_FILE__
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: ==========================================
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag" returned 0
+2009-01-01 00:21:48 [5244] SWTAG: _info_: Created new C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file.
+2009-01-01 00:21:48 [5244] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:21:48 [5244] SWTAG: _info_: ==========================================
+
+
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:38:07 [5716] SWTAG: _info_: ==========================================
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=0
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag" returned 0
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag" returned 0
+2009-01-01 00:38:07 [5716] SWTAG: _info_: Created new C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file.
+2009-01-01 00:38:07 [5716] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:38:07 [5716] SWTAG: _info_: ==========================================
+
+
+2009-01-01 01:33:59 [2572] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 01:33:59 [2572] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 01:33:59 [2572] SWTAG: _info_: ==========================================
+2009-01-01 01:33:59 [2572] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 01:33:59 [2572] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 01:33:59 [2572] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 01:36:32 [6064] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 01:36:32 [6064] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 01:36:32 [6064] SWTAG: _info_: ==========================================
+2009-01-01 01:36:32 [6064] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 01:36:32 [6064] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 01:36:32 [6064] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 01:37:00 [5044] SWTAG: _info_: ==========================================
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 01:37:00 [5044] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 01:37:00 [5044] SWTAG: _info_: End SWTAGGING
+2009-01-01 01:37:00 [5044] SWTAG: _info_: ==========================================
+
+
+2009-01-01 01:37:43 [5044] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 01:37:43 [5044] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 01:37:43 [5044] SWTAG: _info_: ==========================================
+2009-01-01 01:37:43 [5044] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 01:37:43 [5044] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 01:37:43 [5044] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 01:37:43 [5044] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 01:37:43 [5044] SWTAG: _info_: End SWTAGGING
+2009-01-01 01:37:43 [5044] SWTAG: _info_: ==========================================
+
+
+2009-01-01 01:39:20 [3356] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 01:39:20 [3356] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 01:39:20 [3356] SWTAG: _info_: ==========================================
+2009-01-01 01:39:20 [3356] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 01:39:20 [3356] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 01:39:20 [3356] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 01:39:20 [3356] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 01:39:20 [3356] SWTAG: _info_: End SWTAGGING
+2009-01-01 01:39:20 [3356] SWTAG: _info_: ==========================================
+
+
+2009-01-01 01:39:22 [3356] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 01:39:22 [3356] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 01:39:22 [3356] SWTAG: _info_: ==========================================
+2009-01-01 01:39:22 [3356] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 01:39:22 [3356] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 01:39:22 [3356] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 01:39:22 [3356] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 01:39:22 [3356] SWTAG: _info_: End SWTAGGING
+2009-01-01 01:39:22 [3356] SWTAG: _info_: ==========================================
+
+
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:07:33 [5456] SWTAG: _info_: ==========================================
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 00:07:33 [5456] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 00:07:33 [5456] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:07:33 [5456] SWTAG: _info_: ==========================================
+
+
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:07:39 [5456] SWTAG: _info_: ==========================================
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 00:07:39 [5456] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 00:07:39 [5456] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:07:39 [5456] SWTAG: _info_: ==========================================
+
+
+2009-01-01 00:28:35 [2932] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:28:35 [2932] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:28:35 [2932] SWTAG: _info_: ==========================================
+2009-01-01 00:28:36 [2932] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:28:36 [2932] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:28:36 [2932] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:30:15 [5112] SWTAG: _info_: ==========================================
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Start SWTAGGING productName=Adobe Technical Communication Suite 2015; licensingCode=V7{}TechnicalCommunicationSuite-TS6-Win-GM; locale=; caller=1
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 00:30:15 [5112] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}TechnicalCommunicationSuite-TS6-Win-GM.swidtag file
+2009-01-01 00:30:15 [5112] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:30:15 [5112] SWTAG: _info_: ==========================================
+
+
+2009-01-01 00:05:46 [5584] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:05:46 [5584] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:05:46 [5584] SWTAG: _info_: ==========================================
+2009-01-01 00:05:46 [5584] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:05:46 [5584] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:05:46 [5584] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:05:51 [5692] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:05:51 [5692] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:05:51 [5692] SWTAG: _info_: ==========================================
+2009-01-01 00:05:51 [5692] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:05:51 [5692] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:05:51 [5692] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:05:53 [5772] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:05:53 [5772] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:05:53 [5772] SWTAG: _info_: ==========================================
+2009-01-01 00:05:53 [5772] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:05:53 [5772] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:05:53 [5772] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:05:55 [6068] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:05:55 [6068] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:05:55 [6068] SWTAG: _info_: ==========================================
+2009-01-01 00:05:55 [6068] SWTAG: _info_: Start SWTAGGING productName=; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:05:55 [6068] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:05:55 [6068] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:06:29 [5452] SWTAG: _info_: ==========================================
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2009-01-01 00:06:29 [5452] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2009-01-01 00:06:29 [5452] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:06:29 [5452] SWTAG: _info_: ==========================================
+
+
+2009-01-01 00:06:30 [5452] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2009-01-01 00:06:30 [5452] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2009-01-01 00:06:30 [5452] SWTAG: _info_: ==========================================
+2009-01-01 00:06:30 [5452] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2009-01-01 00:06:30 [5452] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2009-01-01 00:06:30 [5452] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2009-01-01 00:06:30 [5452] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2009-01-01 00:06:30 [5452] SWTAG: _info_: End SWTAGGING
+2009-01-01 00:06:30 [5452] SWTAG: _info_: ==========================================
+
+
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-18 12:40:37 [5896] SWTAG: _info_: ==========================================
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-18 12:40:37 [5896] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-18 12:40:37 [5896] SWTAG: _info_: End SWTAGGING
+2019-03-18 12:40:37 [5896] SWTAG: _info_: ==========================================
+
+
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-18 12:40:45 [5896] SWTAG: _info_: ==========================================
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-18 12:40:45 [5896] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-18 12:40:45 [5896] SWTAG: _info_: End SWTAGGING
+2019-03-18 12:40:45 [5896] SWTAG: _info_: ==========================================
+
+
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-22 13:50:01 [3096] SWTAG: _info_: ==========================================
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-22 13:50:01 [3096] SWTAG: _info_: Updated existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-22 13:50:01 [3096] SWTAG: _info_: End SWTAGGING
+2019-03-22 13:50:01 [3096] SWTAG: _info_: ==========================================
+
+
+2019-03-24 22:14:56 [7500] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-24 22:14:56 [7500] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-24 22:14:56 [7500] SWTAG: _info_: ==========================================
+2019-03-24 22:14:56 [7500] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-24 22:14:56 [7500] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-24 22:14:56 [7500] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-24 22:14:56 [7500] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-24 22:14:56 [7500] SWTAG: _info_: End SWTAGGING
+2019-03-24 22:14:56 [7500] SWTAG: _info_: ==========================================
+
+
+2019-03-25 14:46:27 [8128] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-25 14:46:27 [8128] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-25 14:46:27 [8128] SWTAG: _info_: ==========================================
+2019-03-25 14:46:27 [8128] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-25 14:46:27 [8128] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-25 14:46:27 [8128] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-25 14:46:27 [8128] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-25 14:46:27 [8128] SWTAG: _info_: End SWTAGGING
+2019-03-25 14:46:27 [8128] SWTAG: _info_: ==========================================
+
+
+2019-03-25 14:46:59 [5076] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-25 14:46:59 [5076] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-25 14:46:59 [5076] SWTAG: _info_: ==========================================
+2019-03-25 14:46:59 [5076] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-25 14:46:59 [5076] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-25 14:46:59 [5076] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-25 14:46:59 [5076] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-25 14:46:59 [5076] SWTAG: _info_: End SWTAGGING
+2019-03-25 14:46:59 [5076] SWTAG: _info_: ==========================================
+
+
+2019-03-25 20:37:18 [3160] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-25 20:37:18 [3160] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-25 20:37:18 [3160] SWTAG: _info_: ==========================================
+2019-03-25 20:37:18 [3160] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-25 20:37:18 [3160] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-25 20:37:18 [3160] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-25 20:37:18 [3160] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-25 20:37:18 [3160] SWTAG: _info_: End SWTAGGING
+2019-03-25 20:37:18 [3160] SWTAG: _info_: ==========================================
+
+
+2019-03-27 12:09:25 [916] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-27 12:09:25 [916] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-27 12:09:25 [916] SWTAG: _info_: ==========================================
+2019-03-27 12:09:25 [916] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-27 12:09:25 [916] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-27 12:09:25 [916] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-27 12:09:25 [916] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-27 12:09:25 [916] SWTAG: _info_: End SWTAGGING
+2019-03-27 12:09:25 [916] SWTAG: _info_: ==========================================
+
+
+2019-03-29 10:59:05 [3692] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-03-29 10:59:05 [3692] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-03-29 10:59:05 [3692] SWTAG: _info_: ==========================================
+2019-03-29 10:59:05 [3692] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-03-29 10:59:05 [3692] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-03-29 10:59:05 [3692] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-03-29 10:59:05 [3692] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-03-29 10:59:05 [3692] SWTAG: _info_: End SWTAGGING
+2019-03-29 10:59:05 [3692] SWTAG: _info_: ==========================================
+
+
+2019-04-08 12:02:53 [5756] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-04-08 12:02:53 [5756] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-04-08 12:02:53 [5756] SWTAG: _info_: ==========================================
+2019-04-08 12:02:53 [5756] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-04-08 12:02:53 [5756] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-04-08 12:02:53 [5756] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-04-08 12:02:53 [5756] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-04-08 12:02:53 [5756] SWTAG: _info_: End SWTAGGING
+2019-04-08 12:02:53 [5756] SWTAG: _info_: ==========================================
+
+
+2019-04-10 12:01:48 [5428] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-04-10 12:01:48 [5428] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-04-10 12:01:48 [5428] SWTAG: _info_: ==========================================
+2019-04-10 12:01:48 [5428] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-04-10 12:01:48 [5428] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-04-10 12:01:48 [5428] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-04-10 12:01:48 [5428] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-04-10 12:01:48 [5428] SWTAG: _info_: End SWTAGGING
+2019-04-10 12:01:48 [5428] SWTAG: _info_: ==========================================
+
+
+2019-04-11 10:24:46 [5892] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-04-11 10:24:46 [5892] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-04-11 10:24:46 [5892] SWTAG: _info_: ==========================================
+2019-04-11 10:24:46 [5892] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-04-11 10:24:46 [5892] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-04-11 10:24:46 [5892] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-04-11 10:24:46 [5892] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-04-11 10:24:46 [5892] SWTAG: _info_: End SWTAGGING
+2019-04-11 10:24:46 [5892] SWTAG: _info_: ==========================================
+
+
+2019-04-26 13:49:28 [3760] SWTAG: _info_: Get privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 0
+2019-04-26 13:49:28 [3760] SWTAG: _info_: Set privilege info for "C:\Users\Anup kumar\AppData\Local\Temp\swtag.log" returned 5
+2019-04-26 13:49:28 [3760] SWTAG: _info_: ==========================================
+2019-04-26 13:49:28 [3760] SWTAG: _info_: Start SWTAGGING productName=Adobe Acrobat; licensingCode=V7{}AcrobatESR-12-Win-GM; locale=; caller=1
+2019-04-26 13:49:28 [3760] SWTAG: _info_: Get privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 0
+2019-04-26 13:49:28 [3760] SWTAG: _info_: Set privilege info for "C:\ProgramData\regid.1986-12.com.adobe" returned 5
+2019-04-26 13:49:28 [3760] SWTAG: _info_: Reading existing C:\ProgramData\regid.1986-12.com.adobe\regid.1986-12.com.adobe_V7{}AcrobatESR-12-Win-GM.swidtag file
+2019-04-26 13:49:28 [3760] SWTAG: _info_: End SWTAGGING
+2019-04-26 13:49:28 [3760] SWTAG: _info_: ==========================================
+
+

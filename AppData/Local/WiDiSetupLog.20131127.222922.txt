@@ -1,0 +1,25 @@
+------------------------------------------------------------------
+Logger server started on 27.11.2013, at 22:29:22:773
+Process Name: C:\Users\Anup kumar\AppData\Local\Temp\sef3AAF.tmp\WiDiBootLoader.exe
+ProcessID: 0x123c
+Compile time : Dec 20 2011 17:40:58
+-------------------------------------------------------------------
+LogServer: server started
+22:29:23:663,[t:0xC74] : ===================================================== [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] : Log started on 27.11.2013, at 22:29:23:663 [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] : Executable: C:\Users\Anup kumar\AppData\Local\Temp\sef3AAF.tmp\FastClean32.exe [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] : Compile time : Dec 20 2011 17:40:43 [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] : ProcessID: 0x13c4 [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] : ===================================================== [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] : >>[WiDiPreInstallCleanUp()] [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] :  Checking: SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Products [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] :  Checking: SOFTWARE\Classes\Installer\Products [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] :  Checking: SOFTWARE\Classes\Installer\UpgradeCodes\0D73983461F2E4D43B0AA5E0B605640F [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] :  Checking: SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UpgradeCodes\0D73983461F2E4D43B0AA5E0B605640F [L=5][M=MODULE]
+22:29:23:663,[t:0xC74] :  Checking: SOFTWARE\Microsoft\Windows\CurrentVersion\Installer\UserData\S-1-5-18\Components [L=5][M=MODULE]
+22:29:23:819,[t:0xC74] :  Checking: SOFTWARE\Classes\Installer\Features [L=5][M=MODULE]
+22:29:23:819,[t:0xC74] :  Checking: SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall [L=5][M=MODULE]
+22:29:23:834,[t:0xC74] : <<[WiDiPreInstallCleanUp()] [L=5][M=MODULE]
+22:29:23:834,[t:0xC74] : LogClient finished - PID:0x13c4 TID:0xc74 [L=5][M=MODULE]
+LogServer: Failed to read client pipe - errCode = 0x6d
+>>[LogServer: Stop]

@@ -1,0 +1,40 @@
+PERF: TickCount=1266790 Name=OBootStrapper::Run Description=Begin function
+Operating System version: 6.1.7601 Service Pack 1. Platform ID: 2
+Running on a 32-bit operating system.
+Command line: "C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\SETUP.EXE" -Embedding
+Parsing command line.
+Running SETUPEXE as a COM server.
+Using setup controller dll at location [C:\Users\Anup kumar\AppData\Local\Temp\Setup0000027c\OSETUP.DLL].
+Verify file signature in "C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\SETUP.EXE"
+Verify file signature in "C:\Users\Anup kumar\AppData\Local\Temp\Setup0000027c\OSETUP.DLL"
+Using setup controller dll at [C:\Users\Anup kumar\AppData\Local\Temp\Setup0000027c\OSETUP.DLL].
+PERF: TickCount=1267804 Name=OBootStrapper::Run Description=Calling RunSetup
+Opening log file C:\Users\Anup kumar\AppData\Local\Temp\SetupExe(2019032210100227C).log.
+=========================================================================
+PERF: TickCount=1267820 Name=RunSetup Description=Begin function
+Catalyst execution began: 03/22/2019 10:10:02.
+Setup COM Server Session: CollectUserInfo.
+The ProductCode ({91120000-0014-0000-0000-0000000FF1CE}) is resolved to ProductId (PROR)
+Setupexe Resiliency Mode is set to [AlwaysPerform]; thus Resiliency is [enabled] for the [CollectUserInfoExecutionMode]
+Ensuring the install-state of setup controller files for product [PROR].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-006E-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-0115-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-0015-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-0117-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-0016-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-001A-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-0018-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-001F-0C0A-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-001F-040C-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-001F-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-002C-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-0019-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{90120000-001B-0409-0000-0000000FF1CE}].
+Ensuring the install-state of setup controller feature[SetupControllerFiles] for product[{91120000-0014-0000-0000-0000000FF1CE}].
+Searching for default versions of resource files under the folder [C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller].
+Resource File Manager : Found (CultureTag=en-US) resource file at [C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Office.en-us\OSETUPUI.DLL].
+Found [1] resource files under the default folder.
+Resource File Manager : Current user's LCID is [16393].
+Resource File Manager : Falling back from [en-IN] to [en-US].
+Resource File Manager : Selecting resource file (File=C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Office.en-us\OSETUPUI.DLL) for CultureTag [en-IN].
+Loaded resource file [C:\Program Files\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\Office.en-us\OSETUPUI.DLL] (CultureTag=en-US).
